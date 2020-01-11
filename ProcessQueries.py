@@ -5,7 +5,6 @@
 import sys
 from math import log
 from sys import argv
-
 from bs4 import BeautifulSoup
 from nltk import PorterStemmer
 

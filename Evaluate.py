@@ -1,7 +1,6 @@
 # MAIN starts here
 import os
 from sys import argv
-
 from bs4 import BeautifulSoup
 
 

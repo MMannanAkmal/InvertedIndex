@@ -8,7 +8,6 @@ import re
 import string
 from sys import argv
 from typing import Dict, List
-
 from bs4 import BeautifulSoup
 from nltk import PorterStemmer
 
